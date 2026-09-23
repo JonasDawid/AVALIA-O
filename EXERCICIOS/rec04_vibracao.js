@@ -8,3 +8,5 @@ if (valor_vibracao <= 3 ){
     console.log("ATENÇÃO!!!")
 } else { (valor_vibracao >= 6) 
     console.log("SITUAÇÃO CRITICA !!!")}
+
+    --
