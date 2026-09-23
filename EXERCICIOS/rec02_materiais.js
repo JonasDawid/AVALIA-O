@@ -2,7 +2,7 @@ const entrada = require ('readline-sync');
 
 const nome_peca = entrada.question("nome da peca:");
 const quantidade_peca = entrada.questionFloat (" quantidade adquirida:");
-const preco_peca = entrada.questionFloat("preço unitario da peca:");
+const preco_peca = entrada.questionFloat("preco unitario da peca:");
 
 const valor_final = quantidade_peca * preco_peca
 
